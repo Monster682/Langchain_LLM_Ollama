@@ -4,7 +4,7 @@ This project demonstrates the integration of the LangChain framework and the Oll
 
 ## Features
 
-- **LangChain Integration**: Uses LangChain's prompt templates and output parsers for structured interaction.
+ **LangChain Integration**: Uses LangChain's prompt templates and output parsers for structured interaction.
 - **Ollama2 API**: Leverages the Ollama2 model for generating responses.
 - **Streamlit UI**: Provides a simple, interactive web interface for users to input queries.
 - **Environment Variable Management**: Utilizes `.env` files to securely store API keys.
