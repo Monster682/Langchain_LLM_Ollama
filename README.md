@@ -23,18 +23,26 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 #Install dependencies:
 pip install -r requirements.txt
 
+
+
 #Create a .env file in the project root and add the following:
 LANGCHAIN_API_KEY=<your_langchain_api_key>
 OPENAI_API_KEY=<your_openai_api_key>
+
+
 
 #Usage
 1-Run the Streamlit application:
 2-Open your browser and navigate to
 3-Enter a query in the text input box and view the response.
 
+
+
 #File Structure
 ollama.py: Main application script.
 .env: File to store API keys (not included in the repository for security reasons).
+
+
 
 #Dependencies
 langchain_openai
