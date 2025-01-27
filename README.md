@@ -30,7 +30,6 @@ LANGCHAIN_API_KEY=<your_langchain_api_key>
 OPENAI_API_KEY=<your_openai_api_key>
 
 
-
 #Usage
 1-Run the Streamlit application:
 2-Open your browser and navigate to
